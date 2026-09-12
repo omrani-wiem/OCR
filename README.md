@@ -32,7 +32,7 @@ Instead of reading a large number of handwritten notes manually, users can uploa
 *  Responsive dashboard layout
 *  PDF page extraction for image-based feedback processing
 
-## 🏗️ Architecture
+##  Architecture
 
 This version is a client-side React application. The browser communicates directly with the selected external API provider.
 
